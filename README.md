@@ -34,5 +34,3 @@ The project also discusses gRPC, a high-performance framework for remote procedu
 The project concludes by encouraging viewers to implement their own lightweight TCP protocol, emphasizing the need for efficient communication in backend architectures. Viewers are invited to share their implementations and engage with the content.
 
 ---
-
-This README provides a structured overview of the content discussed in your video, making it easy for users to understand the project's purpose and key concepts. Let me know if you need any modifications or additional sections! 
