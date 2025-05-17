@@ -1,10 +1,6 @@
 ﻿# My_Protocol-Like-gRPC
 
-<video width="600" controls>
-  <source src="https://github.com/user-attachments/assets/4a73f91f-f04f-46dc-908c-08392a7ff0de" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://github.com/user-attachments/assets/4a73f91f-f04f-46dc-908c-08392a7ff0de
 
 # Introduction to Protocols
 
